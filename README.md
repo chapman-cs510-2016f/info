@@ -2,6 +2,7 @@
 
 * [Course Syllabus](syllabus-cs510-2016f.pdf)
 * [GitHub Developer Pack](https://education.github.com/pack)
+* [Free Python Textbook](http://hplgit.github.io/prog4comp/doc/pub/._p4c-bootstrap-Python002.html)
 * Bash Resources:
     * [Linux/Bash Tutorial](http://ryanstutorials.net/linuxtutorial)
     * [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
@@ -10,6 +11,7 @@
 * Git Resources:
     * [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
     * [tryGit Tutorial](https://try.github.io/levels/1/challenges/1)
+    * [Quick Intro to Git](http://hplgit.github.io/teamods/bitgit/Langtangen_github.html)
     * [Learn Git in Y Minutes](https://learnxinyminutes.com/docs/git/)
     * [Git Tutorial](http://git-scm.com/docs/gittutorial)
     * [Git User Manual](http://git-scm.com/docs/user-manual.html)
@@ -25,6 +27,7 @@
     * [Python Style Guide](PythonStyleGuide.md)
     * [Interactive Python Tutorial](http://www.learnpython.org/)
     * [Scientific Python Textbook](https://hplgit.github.io/scipro-primer/)
+        * [Chapter Slides](http://hplgit.github.io/scipro-primer/slides/index.html)
     * [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
     * [Official Python Tutorial](https://docs.python.org/2/tutorial/)
     * [Learn Python the Hard Way (exercises)](http://learnpythonthehardway.org/book/index.html)
