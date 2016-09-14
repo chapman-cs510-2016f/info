@@ -37,6 +37,7 @@
     * [MATLAB Tutorial](http://www.tutorialspoint.com/matlab/)
     * [MATLAB-Python Dictionary](http://mathesaurus.sourceforge.net/matlab-numpy.html)
 * Julia Resources:
+    * [Julia for Quantitative Economics](http://quant-econ.net/jl/getting_started.html)
     * [Learn Julia in Y Minutes](https://learnxinyminutes.com/docs/julia/)
     * [Julia by Example](http://samuelcolvin.github.io/JuliaByExample)
     * [MATLAB-Python-Julia-R Comparison](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet.html)
